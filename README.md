@@ -1,5 +1,10 @@
 # 💫 About Me:
 I am currently working as a Creatio CRM Developer, contributing to the automation of business workflows to enhance efficiency, accuracy, and scalability.<br>
+⚙️ Specialized In: Creatio CRM Development, Automation, Workflow Optimization<br>
+
+🧠 Core Expertise: Process Design | Integrations | Data Governance | Performance Optimization<br>
+
+🏢 Industry Focus: Banking | Financial Institutions | Enterprise Solutions<br>
 
 
 ## 🌐 Socials:
